@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>/posts/</link>
+    <link>https://haronhu.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 15:43:56 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 15:43:56 +0800</lastBuildDate><atom:link href="https://haronhu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyFirstBlog</title>
-      <link>/posts/myfirstblog/</link>
+      <link>https://haronhu.github.io/posts/myfirstblog/</link>
       <pubDate>Wed, 28 Jun 2023 15:43:56 +0800</pubDate>
       
-      <guid>/posts/myfirstblog/</guid>
-      <description>
-        
-          
-            #测试用
-          
-          
-        
-      </description>
+      <guid>https://haronhu.github.io/posts/myfirstblog/</guid>
+      <description>#博客搭建# 在搭建博客中，我并没有遇到大的问题，唯一一点就是在我初始化git init后并没有.past出现，但是再次git init后命令行出现Reinitialized existing Git repository in，于是我继续往下进行，最终顺利搭建博客</description>
     </item>
     
   </channel>
